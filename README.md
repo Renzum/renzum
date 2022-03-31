@@ -13,6 +13,8 @@ __NOTE:__ Most of the projects I start are purely for fun and education. They ar
 ### Active Projects
 * [Python To-Do App](https://github.com/Renzum/To-Do)
 
+## Academic Work
+* [Mathematical Presentations and a paper](https://github.com/Renzum/Undergraduate-Mathematical-Seminar)
 ## Books
 ### Currently Reading
 * The Pragmatic Programmer by David Thomas and Andrew Hunt
