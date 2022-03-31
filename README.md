@@ -14,3 +14,10 @@ __NOTE:__ Most of the projects I start are purely for fun and education. They ar
 * [Python To-Do App](https://github.com/Renzum/To-Do)
 #### Inactive Projects
 Pretty much everything else on my github.
+
+### Books
+## Currently Reading
+* The Pragmatic Programmer by David Thomas and Andrew Hunt
+
+## Planning to Read
+* Crafting Interpreters by Robert Nystrom
