@@ -1,11 +1,3 @@
-<!--START_SECTION:waka-->
-
-```text
-VimL   4 mins          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
 ## Who am I?
 I am a Bachelor of Science student at Jacobs University Bremen, currently majoring in Computer Science and minoring in Mathematics.
 
