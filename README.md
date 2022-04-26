@@ -11,7 +11,7 @@ I only recently started maintaining them, so the quality is not at its prime.
 ## Current Projects
 __NOTE:__ Most of the projects I start are purely for fun and education. They are usually left untouched after a certain point, simply because I do not deem them resourceful for my eductaion anymore. Unless its software that I use in my workflows.
 ### Active Projects
-* [Python To-Do App](https://github.com/Renzum/To-Do)
+No current projects. Studying Rust in the meantime.
 
 ## Academic Work
 * [Mathematical Presentations and a paper](https://github.com/Renzum/Undergraduate-Mathematical-Seminar)
