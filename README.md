@@ -17,7 +17,7 @@ No current projects. Studying Rust in the meantime.
 * [Mathematical Presentations and a paper](https://github.com/Renzum/Undergraduate-Mathematical-Seminar)
 ## Books
 ### Currently Reading
-* The Pragmatic Programmer by David Thomas and Andrew Hunt
+* <a href="https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/ref=dp_ob_title_bk">The Pragmatic Programmer</a> by David Thomas and Andrew Hunt
 
 ### Planning to Read
-* Crafting Interpreters by Robert Nystrom
+* <a href="https://craftinginterpreters.com/">Crafting Interpreters</a> by Robert Nystrom
